@@ -6,7 +6,7 @@ description: This is the About page
 
 ## About
 
-![Photo of Jake](media/PhotoOfJake.png)
+![Photo of Jake](media/JakeWithArt.jpg)
 
 
 I’m a video game developer and educator, patent agent, and astrophysicist.
