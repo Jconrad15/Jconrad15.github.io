@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Games
-description: 
+description: --
 ---
 
 ## Select Games
