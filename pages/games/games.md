@@ -4,7 +4,7 @@ title: Another page
 description: This is just another page
 ---
 
-## TestNewPage
+## Games
 
 Under Construction
 
