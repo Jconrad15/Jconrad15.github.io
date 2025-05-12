@@ -6,6 +6,9 @@ description: This is the About page
 
 ## About
 
+![Photo of Jake](Media/PhotoOfJake.png)
+
+
 I’m a video game developer and educator, patent agent, and astrophysicist.
 
 During college, as an astrophysicist, I studied planetary magnetic fields and atmospheres. I conducted research with the Laboratory for Atmospheric Physics, Boston University, and the Institute of Arctic and Alpine Research, in undergraduate researcher positions.
