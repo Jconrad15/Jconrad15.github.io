@@ -1,3 +1,3 @@
-# Jacob Hermann-Traxler's Webpage
+# Jacob Hermann-Traxler
 
 Under Construction
