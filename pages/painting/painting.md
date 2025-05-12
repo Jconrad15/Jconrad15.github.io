@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Art
+title: Paintings
 description: --
 ---
 
-## Select Art
+## Select Paintings
 
