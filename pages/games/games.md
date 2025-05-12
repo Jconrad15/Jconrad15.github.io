@@ -4,7 +4,7 @@ title: Games
 description: 
 ---
 
-## Games
+## Select Games
 
 * [Merchant Isle](https://store.steampowered.com/app/2722600/Merchant_Isle/)
 * [Q2K](https://bunppang.itch.io/q2k)
