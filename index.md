@@ -1,8 +1,5 @@
 # Jacob Hermann-Traxler
 
-![Photo of Jake](Media/PhotoOfJake.png)
-
-
 Hi! I’m Jacob, a game developer, an educator, and a patent agent!
 
 I’m passionate about games and the unique interactions they provide. I am enthusiastic about emergent gameplay that arises due to carefully crafted systems and procedural generation. 
