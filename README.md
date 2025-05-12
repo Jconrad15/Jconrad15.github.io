@@ -1,6 +1,6 @@
 # Jacob Hermann-Traxler
 
-
+![Photo of Jake](media/PhotoOfJake.png)
 
 
 Hi! I’m Jacob, a game designer, developer, and educator. I’m also a patent agent!
