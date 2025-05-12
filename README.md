@@ -1,5 +1,8 @@
 # Jacob Hermann-Traxler
 
+
+
+
 Hi! I’m Jacob, a game designer, developer, and educator. I’m also a patent agent!
 
 I’m passionate about games and the unique interactions they provide. I am enthusiastic about emergent narratives that arise due to carefully crafted systems and procedural generation. Check out some of the games I’ve worked on.
