@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jacob Hermann-Traxler
+description: Welcome!
+---
+
 ## Hi! I’m Jacob!
 
 I'm a game developer, an educator, and a patent agent.
