@@ -19,3 +19,4 @@ Driven by the combination of creativity and technology, I create video games and
 
 When not delving into the world of game development, I can be found hiking, painting, or playing with my little cats Ash and Luna.
 
+[Find my resume here](media/JacobHermann-Traxler_Resume.pdf)
