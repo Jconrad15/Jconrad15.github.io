@@ -10,6 +10,8 @@ I'm a game developer, an educator, and a patent agent.
 
 I am passionate about emergent gameplay that arises due to carefully crafted systems and procedural generation. 
 
+Currently, I am developing Stellar Archipelago - a resource collection and building game [Wishlist on Steam](https://store.steampowered.com/app/3295680/Stellar_Archipelago/?curator_clanid=45082142)
+
 Previously, I released Merchant Isle – a cozy adventure game. [Merchant Isle is free on Steam!](https://store.steampowered.com/app/2722600/Merchant_Isle/)
 
 ## Social
