@@ -6,7 +6,7 @@ description: Welcome!
 
 ## Hi! I’m Jacob!
 
-I'm a game developer, an educator, and a patent agent.
+I'm a game developer, educator, and patent agent.
 
 I am passionate about emergent gameplay that arises due to carefully crafted systems and procedural generation. 
 
