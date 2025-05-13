@@ -4,7 +4,10 @@ title: Games
 description: --
 ---
 
-## Select Games
+## In Progress Games
+* [Stellar Archipelago](https://store.steampowered.com/app/3295680/Stellar_Archipelago/?curator_clanid=45082142)
+
+## Completed Games
 
 * [Merchant Isle](https://store.steampowered.com/app/2722600/Merchant_Isle/)
 * [Q2K](https://bunppang.itch.io/q2k)
